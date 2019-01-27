@@ -1,4 +1,5 @@
 **1. Libraries Related**
+
 This study is based on Python and those libraries related in this analysis mainly comes from pandas, matplotlib, seaborn, sklearn. To be more specific:
 
 - pandas: data loading and processing
@@ -6,6 +7,7 @@ This study is based on Python and those libraries related in this analysis mainl
 - sklearn: data modeling
 
 **2. Motivation**
+
 The purpose of this study is to dig on price related questions using the AirBNB data of Boston from Sep, 2016 to Sep, 2017.
 *Areas of Interest*
 
@@ -14,6 +16,7 @@ The purpose of this study is to dig on price related questions using the AirBNB 
 2.3 What are the factors that can help to predict house prices?
 
 **3. Files Included**
+
 In this repository, we have provided this jupyter notebook analysis file together with the three csv files with datasets.
 
 **4. Results of Analysis**
