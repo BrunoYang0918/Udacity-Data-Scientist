@@ -1,11 +1,11 @@
-1. Libraries Related
+**1. Libraries Related**
 This study is based on Python and those libraries related in this analysis mainly comes from pandas, matplotlib, seaborn, sklearn. To be more specific:
 
 - pandas: data loading and processing
 - matplotlib & seaborn: data visualization
 - sklearn: data modeling
 
-2. Motivation
+**2. Motivation**
 The purpose of this study is to dig on price related questions using the AirBNB data of Boston from Sep, 2016 to Sep, 2017.
 *Areas of Interest*
 
@@ -13,10 +13,10 @@ The purpose of this study is to dig on price related questions using the AirBNB 
 2.2 What are the bed types if listings and their average prices?
 2.3 What are the factors that can help to predict house prices?
 
-3. Files Included
+**3. Files Included**
 In this repository, we have provided this jupyter notebook analysis file together with the three csv files with datasets.
 
-4. Results of Analysis
+**4. Results of Analysis**
 
 *Question One*
 Regarding the first question, based on the visualization we could tell that in Sep, 2016, the listing availability is quite low. Only around 30% of the listings are available and the price on average is $50 higher than the rest of the time of that year.
