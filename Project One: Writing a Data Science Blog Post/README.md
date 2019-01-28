@@ -35,4 +35,4 @@ By looking at the graph attached, we could tell that listings on AirBNB together
 
 The study to predict a listing price is mainly based on those parameters from the listings file. There are various factors considered in the model, such as number of bedrooms, beds, accommodates; type of rooms, bed etc.
 
-We have successfuly processed the data and build up a liner model. However, by looking at the r2 score, unfortunately we are not able to predict the house prices using those factors listed.
+We have successfuly processed the data and build up a random forest model. However, by looking at the r2 score, we are not able to predict the house prices using those factors listed.
