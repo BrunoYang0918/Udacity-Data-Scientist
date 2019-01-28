@@ -33,4 +33,4 @@ By looking at the graph attached, we could tell that listings on AirBNB together
 
 *Question Three*
 
-The study to predict a listing price is mainly based on those parameters from the listings file. There are various factors considered in the model, such as number of bedrooms, beds, accommodates; type of rooms, bed etc. We have successfuly processed the data and build up a random forest model. H
+The study to predict a listing price is mainly based on those parameters from the listings file. There are various factors considered in the model, such as number of bedrooms, beds, accommodates; type of rooms, bed etc. We have successfuly processed the data and build up a random forest model.
